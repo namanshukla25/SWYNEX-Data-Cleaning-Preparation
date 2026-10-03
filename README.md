@@ -118,11 +118,11 @@ The original raw dataset was preserved separately from the cleaned dataset.
 ```text
 SWYNEX-Data-Cleaning-Preparation
 │
-├── data
+├── Data
 │   ├── dirty_cafe_sales.csv
 │   └── cleaned_cafe_sales.csv
 │
 ├── notebooks
-│   └── data_cleaning.ipynb
+│   └── Data_cleaning.ipynb
 │
 └── README.md
